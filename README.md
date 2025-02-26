@@ -2,7 +2,6 @@
 <!--
 **mjferner/mjferner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![Marni Ferner Portrait](marni-ferner-portrait-small.jpg)<br>
 🔭 I’m a senior lecturer at the University of North Carolina Wilmington<br>
 🌱 [My website](http://people.uncw.edu/mferner)<br>
 👯 I currently teach databases and web development courses<br>
